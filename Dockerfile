@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD echo 'Hello Docker!!'
+CMD echo 'Hello Docker!'
